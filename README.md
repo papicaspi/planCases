@@ -9,6 +9,7 @@ un resumen rapido de la api.
 puedes obtener los planes de mejora relacionados a un indicador, luego puedes seleccionar un plan especifico con su id(id_plan)
 tambien puedes crear un plan de mejora
 este es un insert en un plan de mejoras, solo cambia el id_plan para cada plan y relacionalo al indicador con codigo_indicador
+
 {
   "id_plan": 1, //id del plan unico
   "codigo_indicador": 1,  //id o codigo del indicador
