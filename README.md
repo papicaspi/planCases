@@ -1,6 +1,7 @@
 cambia el env. para conectarte a la base de mongo
 yo usé el atlas de mongo para conectarme 
 MONGO_URI=mongodb+srv://stevenq:mongoPass@cluster0.ygmcumi.mongodb.net/cases?retryWrites=true&w=majority&appName=Cluster0
+stevenq:mongoPass  //credenciales
 
 las rutas de la api se encuentran en route/planRoutes.js
 
