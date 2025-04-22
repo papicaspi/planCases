@@ -8,6 +8,7 @@ las rutas de la api se encuentran en route/planRoutes.js
 un resumen rapido de la api.
 puedes obtener los planes de mejora relacionados a un indicador, luego puedes seleccionar un plan especifico con su id(id_plan).
 tambien puedes crear un plan de mejora.
+
 este es un insert en un plan de mejoras, solo cambia el id_plan para cada plan y relacionalo al indicador con codigo_indicador
 
 {
